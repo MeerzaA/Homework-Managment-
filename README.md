@@ -1,5 +1,5 @@
 # Homework-Managment-
-This is a homework management system I build I C++.
+This is a homework management system I build in C++.
 
 This was a final project I made for my data structures class, It was built in visual Studios 2019.
 
